@@ -23,7 +23,7 @@ body {
 .hero {
   width: 10vw;
   height: 90px;
-  background-image: url("../images/Final_image.jpg");
+  background-image: url("images/Final_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
