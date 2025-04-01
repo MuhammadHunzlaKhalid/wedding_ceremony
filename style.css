@@ -25,7 +25,7 @@ body {
   height: 90px;
   background-image: url("images/Final_image.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   background-position: center;
 }
